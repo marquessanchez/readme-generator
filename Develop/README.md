@@ -1,9 +1,9 @@
-# po
-  ![Generic badge](https://img.shields.io/badge/license--blue.svg)
+# readme-genrator
+  ![Generic badge](https://img.shields.io/badge/license-none-blue.svg)
 
   ## Description
 
-  p
+  create a qulity readme
 
   ## Table of Contents
 
@@ -25,12 +25,12 @@
   To install necessary dependencies, run the following command:
 
   '''
-  
+  node
   '''
 
   ## Usage
 
-  
+  none
 
   ## License
     
@@ -38,16 +38,16 @@
 
   ## Contributing
 
-  
+  marques
 
   ## Tests
 
   To run tests, run the following command:
 
   '''
-  
+  test
   '''
 
   ## Questions 
 
-  If you have any questions about the repo, open an issue or contact me directly at .  You can find more of my work at [](https://github.com//).
+  If you have any questions about the repo, open an issue or contact me directly at marques@example.com.  You can find more of my work at [marquessanchez](https://github.com/marquessanchez/).
